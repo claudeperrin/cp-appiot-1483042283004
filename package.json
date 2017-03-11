@@ -1,6 +1,6 @@
 {
-  "name": "coursera-appiot",
-  "version": "1.0.0",
+  "name": "cp-appiot",
+  "version": "1.0.1",
   "description": "",
   "main": "server.js",
   "author": "",

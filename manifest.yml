@@ -7,4 +7,4 @@ applications:
   host: cp-appiot
   disk_quota: 1024M
 services:
-- cp-iotp-s1
+- cp-iotp-s
